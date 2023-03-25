@@ -1,0 +1,186 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+
+body 
+{
+    background-color:lightblue;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    min-height:100vh;
+}
+#container
+{
+    position:relative;
+    width:100%;
+    max-width:1000px;
+    min-height:1000px;
+    background-color:white;   
+    margin:50px;
+    display:grid;
+    grid-template-columns:1fr 2fr;
+    box-shadow:0px 30px 55px rgba(0,0,0,0.1);
+}
+
+#container #leftside 
+{
+    position:relative;
+    background-color:blue;
+    padding:40px;
+}
+#container #rightside 
+{
+    
+    position:relative;
+    background-color:white;
+    padding:40px;
+}
+img
+{
+    height:200px;
+    width:200px;
+    border-radius:50%;
+} 
+#spy1
+{
+    color:white;
+    font-size:25px;
+}
+#spy2 
+{
+    color:white;
+    font-size:20px;
+}
+#spy3 
+{
+    color:white;
+}#span4 
+{
+    margin-left:30px;
+}
+
+#span5 
+{
+    color:white;
+    font-size:18px;
+    font-family:'Courier New', Courier, monospace;
+    text-decoration:none;
+}
+#span6 
+{
+    margin-left: 30px;
+}
+#span7 
+{
+    color:white;
+    text-decoration:none;
+    font-size:12.8px;
+}
+#span8 
+{
+    margin-left:34px;
+}
+#span9
+{
+    color:white;
+    text-indent:30px;
+}
+#span10 
+{
+    margin-left:35px;
+}
+#span11 
+{
+    color:white;
+    text-indent:20px;
+    text-decoration:none;
+}
+#span12
+{
+    color:white;
+    text-indent:20px;
+    font-size:25px;
+
+    display:block;
+}
+#span13 
+{
+    color:black;
+    text-indent:30px;
+    margin-right:28px;
+    text-align:center;
+    font-size:25px;
+    
+}
+#span14 
+{
+   margin-left:25px;
+   margin-right:30px;
+   color:white;
+   line-height:14px;
+}
+#span15
+{
+    margin-left:25px;
+   margin-right:30px;
+   color:white;
+   line-height:14px;
+}
+#span16 
+{
+    color:black;
+    text-indent:30px;
+    margin-right:28px;
+    text-align:center;
+    font-size:25px;
+}
+#span17
+{
+    margin-left:25px;
+   margin-right:30px;
+   color:white;
+   line-height:14px;
+}
+#span18
+{
+    margin-left:25px;
+   margin-right:30px;
+   color:white;
+   line-height:14px;
+}
+#span19 
+{
+    color:black;
+    text-indent:30px;
+    margin-right:28px;
+    text-align:center;
+    font-size:25px;
+}
+#span20
+{
+    margin-left:25px;
+   margin-right:30px;
+   color:white;
+   line-height:14px;
+}
+#span21 
+{
+    margin-left:25px;
+    margin-right:30px;
+    color:white;
+    line-height:14px;   
+}
+#right1 
+{
+    color:blue;
+}
+#right2
+{
+    color:blue;
+}
+
